@@ -1,4 +1,4 @@
-https://i.ibb.co/vDML9Pr/github-header-image.png
+<img src="https://i.ibb.co/vDML9Pr/github-header-image.png">
 
 Sou apaixonado por resolver problemas com tecnologia.
 Não tenho medo em começar algo do zero.
