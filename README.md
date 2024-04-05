@@ -3,7 +3,7 @@
 Sou apaixonado por resolver problemas com tecnologia.
 Não tenho medo em começar algo do zero.
 
-:rocket: &nbsp; Estou cursando o ultimo semestre de Ciência da Computação na UNIP
+:rocket: &nbsp; Estou cursando Ciência da Computação na UNIP
 <br/> :rocket: &nbsp; Estou em busca de crescimento em minha carreira profissional
 <br/> :smile: &nbsp; Busco colaborar com projetos tanto em front-end quanto em back-end usando ReactJS, React Native e Node.js
 <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias no geral, jogos, músicas e gosto de tocar instrumentos..
