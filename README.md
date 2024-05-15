@@ -5,8 +5,8 @@ Não tenho medo em começar algo do zero.
 
 :rocket: &nbsp; Estou cursando Ciência da Computação na UNIP
 <br/> :rocket: &nbsp; Estou em busca de crescimento em minha carreira profissional
-<br/> :smile: &nbsp; Busco colaborar com projetos tanto em front-end quanto em back-end usando ReactJS, React Native e Node.js
-<br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias no geral, jogos, músicas e gosto de tocar instrumentos..
+<br/> :smile: &nbsp; Busco colaborar em projetos fullstack usando ReactJS, React Native e Node.js
+<br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias no geral, jogos, música, ler livros e tocar instrumentos..
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Velozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrevelozo/)](https://www.linkedin.com/in/alexandrevelozo/)
 |
 [![Icloud Badge](https://img.shields.io/badge/-alexandrevelozo4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandrevelozo4@gmail.com)](mailto:alexandrevelozo4@gmail.com)
