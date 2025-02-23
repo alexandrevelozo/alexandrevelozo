@@ -3,9 +3,9 @@
 Sou apaixonado por resolver problemas com tecnologia.
 Não tenho medo em começar algo do zero.
 
-:rocket: &nbsp; Estou cursando Ciência da Computação na UNIP
+:rocket: &nbsp; Formado em Ciência da Computação pela UNIP
 <br/> :rocket: &nbsp; Estou em busca de crescimento em minha carreira profissional
-<br/> :smile: &nbsp; Busco colaborar em projetos fullstack usando ReactJS, React Native e Node.js
+<br/> :smile: &nbsp; Busco colaborar em projetos fullstack usando .NET, React, Angular e Node.
 <br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias no geral, jogos, música, ler livros e tocar instrumentos..
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Velozo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrevelozo/)](https://www.linkedin.com/in/alexandrevelozo/)
 |
